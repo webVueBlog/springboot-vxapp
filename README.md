@@ -1,3 +1,3 @@
-# springboot-bookadmin
+# springboot-vxapp
 
-SpringBoot2.X整合MyBatis-Plus实现图书管理系统的增删改查
+SpringBoot2.X整合微信小程序登录
