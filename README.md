@@ -8,6 +8,7 @@
 - 使用token作为登录凭证，不使用session，避免跨域问题
 - 文章增删改查操作接口
 - 多模块服务
+- springboot-swagger2添加swagger-ui
 
 ```java
 // 比如 文章:查看/编辑/发布/删除
