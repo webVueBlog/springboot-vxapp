@@ -16,4 +16,7 @@
 //@RequiresPermissions("article:add")
 ```
 
+http://localhost:10008/doc.html#/demoknife4jopenapi2springbootstarter/%E6%B5%8B%E8%AF%95api/time2UsingGET
+
 <img width="1512" alt="image" src="https://github.com/webVueBlog/springboot-vxapp/assets/59645426/bf703265-401b-408e-a19f-c13b574dbcd9">
+

@@ -1,0 +1,35 @@
+
+server:
+  port: 10008
+
+spring:
+  application:
+    name: demoknife4jopenapi2springbootstarter
+
+
+# ??????
+logging:
+  config: classpath:logback-spring.xml
+
+
+# Knife4j????
+knife4j:
+  enable: true
+  basic:
+    enable: false
+    username: admin
+    password: 123456
+  openapi:
+    title: "????"
+    description: "API??"
+    concat: webVueBlog
+    email: 1024bibi.com
+    url: http://gitee.com/webVueBlog
+    version: v1.0.0
+    license: MIT
+    group:
+      demo:
+        group-name: demoknife4jopenapi2springbootstarter
+        api-rule: package
+        api-rule-resources:
+          - com.example.webvueblog.demoknife4jopenapi2springbootstarter
