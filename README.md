@@ -9,8 +9,11 @@
 - 文章增删改查操作接口
 - 多模块服务
 - springboot-swagger2添加swagger-ui
+- 添加demoknife4jopenapi2springbootstarter
 
 ```java
 // 比如 文章:查看/编辑/发布/删除
 //@RequiresPermissions("article:add")
 ```
+
+<img width="1512" alt="image" src="https://github.com/webVueBlog/springboot-vxapp/assets/59645426/bf703265-401b-408e-a19f-c13b574dbcd9">
