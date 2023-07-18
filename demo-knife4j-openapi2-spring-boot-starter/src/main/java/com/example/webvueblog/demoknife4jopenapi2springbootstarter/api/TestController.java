@@ -11,18 +11,12 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 @RestController
 @RequestMapping("")
-@Api(tags="测试api")
+@Api(tags = "首页模块")
 public class TestController {
-    @GetMapping("time")
-    @ApiOperation("time")
-    public String time() {
-        log.info("time: {}", DateUtil.date());
-        return DateUtil.date().toString();
-    }
 
-    @GetMapping("time2")
-    @ApiOperation("time2")
-    public String time2() {
+    @GetMapping("time")
+    @ApiOperation("获取当前时间")
+    public String time() {
         log.info("time: {}", DateUtil.date());
         return DateUtil.date().toString();
     }
