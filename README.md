@@ -10,7 +10,6 @@
 - 多模块服务
 - springboot-swagger2添加swagger-ui
 - 添加demoknife4jopenapi2springbootstarter
-- Flutter - Text Widgets
 - 24jdk
 
 ```java
