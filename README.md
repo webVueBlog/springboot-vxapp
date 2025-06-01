@@ -10,6 +10,7 @@
 - 多模块服务
 - springboot-swagger2添加swagger-ui
 - 添加demoknife4jopenapi2springbootstarter
+- 24jdk
 
 ```java
 // 比如 文章:查看/编辑/发布/删除
