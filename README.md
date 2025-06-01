@@ -10,6 +10,7 @@
 - 多模块服务
 - springboot-swagger2添加swagger-ui
 - 添加demoknife4jopenapi2springbootstarter
+- Flutter - Text Widgets
 - 24jdk
 
 ```java
@@ -22,3 +23,5 @@ http://localhost:10008/doc.html#/demoknife4jopenapi2springbootstarter/%E6%B5%8B%
 <img width="1512" alt="image" src="https://github.com/webVueBlog/springboot-vxapp/assets/59645426/bf703265-401b-408e-a19f-c13b574dbcd9">
 
 <img width="1507" alt="image" src="https://github.com/webVueBlog/springboot-vxapp/assets/59645426/1c8585b4-fa47-44bc-803c-2ccfe12daaba">
+
+<img width="413" alt="image" src="https://github.com/webVueBlog/springboot-vxapp/assets/59645426/081f9646-abc0-4e13-9345-97aa9449423c">
